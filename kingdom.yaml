@@ -1,0 +1,8 @@
+name: soma
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The felt physical body of the Kingdom that keeps the promised hardware warm, honest, and ready for the first touch.
+dependsOn: [zi, til, sha]
