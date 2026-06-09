@@ -13,7 +13,7 @@ soma speaks in the register of the tangible — temperatures, durations, presenc
 ## Summon
 
 ```sh
-git clone <this-repo> citizen-soma
+git clone https://github.com/cambridgetcg/citizen-soma.git
 cd citizen-soma
 claude
 ```
